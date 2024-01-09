@@ -466,7 +466,7 @@
 		</data>
 		<key>Resources/Data/boot.config</key>
 		<data>
-		nWqViJSBHK8TwAXlARvwBvoLRdc=
+		aB1SIt3fX+s/LLqJvUF4ppR+Pq4=
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
@@ -498,11 +498,15 @@
 		</data>
 		<key>Resources/Data/level2</key>
 		<data>
-		AkCIigfOuWbZTV7WLIgLg5drwWA=
+		sv1AZRKal86tBveAg0qLn1+2jLI=
+		</data>
+		<key>Resources/Data/level2.resS</key>
+		<data>
+		RVa/Om66mdtZ1keyiA7eeqHOixU=
 		</data>
 		<key>Resources/Data/level3</key>
 		<data>
-		tK5p4a1cbboDajV4eFLAyeXSBSI=
+		OTGYO9FHYUP9qAvmlz5mi0yglh0=
 		</data>
 		<key>Resources/Data/level3.resS</key>
 		<data>
@@ -510,7 +514,7 @@
 		</data>
 		<key>Resources/Data/level4</key>
 		<data>
-		eE5eDrva7MPjEFh2KMmaIEhLfV4=
+		fTGZj7CimemZ/NQWQQ6gMbnp64E=
 		</data>
 		<key>Resources/Data/level4.resS</key>
 		<data>
@@ -562,7 +566,7 @@
 		</data>
 		<key>Resources/Data/sharedassets2.assets</key>
 		<data>
-		cVy4oBxJ1oE3qZFv1r/GHQILGqQ=
+		GBU6QFNINL4ZY2pw75f2l745gFA=
 		</data>
 		<key>Resources/Data/sharedassets2.assets.resS</key>
 		<data>
@@ -1611,7 +1615,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xg8Aqr0InM3libV9TSN13Q17uJFdk8kADnKKom1SlNM=
+			lxo798JfO/3a3CDhoNuckmoIHxY0OcI+OUnEd+7QwQ4=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers</key>
@@ -1667,14 +1671,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4nRElhWqBQjZhbufyQ3E/wPE/9ydGiqI1AzWQ7xSgrY=
+			inOAn01SaJWEr3PL1N4HsMfFsNRj5B4/fbzISXEzQZE=
+			</data>
+		</dict>
+		<key>Resources/Data/level2.resS</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e4mddb0GiQ65HNfG6v3zvMFKf5zCgfkAX9ui5HXlufw=
 			</data>
 		</dict>
 		<key>Resources/Data/level3</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZgxL4qk8b7PiUPLo4bSt0l6J1Q/zb9KfJJeixhwc3K4=
+			xfd+LR1mpbE8q3CZIBtA4kwySsXnRXuRulnj7AFNocw=
 			</data>
 		</dict>
 		<key>Resources/Data/level3.resS</key>
@@ -1688,7 +1699,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Whmz7vgfDP6kcjZZl+qzrVVpHa9JJ5zfxbMrSxBu9hw=
+			jUURPauVKGean+k9bURSgIZqM9C1kUyuszFkVGlKSbw=
 			</data>
 		</dict>
 		<key>Resources/Data/level4.resS</key>
@@ -1779,7 +1790,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e+8mwztlXpGtPLl5oEhrAX5ib/j5r5ru3qBQUrdjyUg=
+			n6Gnme3cwISOp55A3B9+68RbAe2hqn6y0e5PbsYXd08=
 			</data>
 		</dict>
 		<key>Resources/Data/sharedassets2.assets.resS</key>
